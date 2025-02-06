@@ -1,0 +1,11 @@
+h2 {
+    font-size: 90px;
+    font-weight: 500;
+    background: radial-gradient(circle, #FFFFFF, #FFFFFF33);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h2 span {
+    -webkit-text-fill-color:#FF3131;
+}
